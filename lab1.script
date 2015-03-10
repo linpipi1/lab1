@@ -1,0 +1,20 @@
+Script started on 2015年03月10日 (週二) 19時17分25秒
+]0;F74032049@2015cpp: ~F74032049@2015cpp:~$ whoami; pwd
+F74032049
+/home/F74032049
+]0;F74032049@2015cpp: ~F74032049@2015cpp:~$ git config ‐l
+git: 'config ‐l' is not a git command. See 'git --help'.
+]0;F74032049@2015cpp: ~F74032049@2015cpp:~$ git cp[Konfig -1[K;[Kl
+]0;F74032049@2015cpp: ~F74032049@2015cpp:~$  git clone[C[1P[C[C[C[C[C[C[C[C[C https://github.com/linpipi1/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74032049@2015cpp: ~F74032049@2015cpp:~$ rm lab1
+rm: cannot remove `lab1': Is a directory
+]0;F74032049@2015cpp: ~F74032049@2015cpp:~$ rm -if lab1
+rm: cannot remove `lab1': Is a directory
+]0;F74032049@2015cpp: ~F74032049@2015cpp:~$ rm -if lab1[1P[1@r
+]0;F74032049@2015cpp: ~F74032049@2015cpp:~$ rm -rf lab1i[C[C[C[C[C[C[4Plab1git clone https://github.com/linpipi1/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74032049@2015cpp: ~F74032049@2015cpp:~$ exit
+
+Script done on 2015年03月10日 (週二) 19時21分22秒
